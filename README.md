@@ -13,7 +13,7 @@ Information pertaining to dataset given:
 - `bank-additional-full.csv` with all examples (41188) and 20 inputs, ordered by date (from May 2008 to
 November 2010), very close to the data analyzed in [Moro et al., 2014]
 
-Goal :- The classification goal is to predict if the client will subscribe (yes/no) a term deposit (variable y).
+**Goal :- The classification goal is to predict if the client will subscribe (yes/no) a term deposit (variable y).**
 
 Sources
 - https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
